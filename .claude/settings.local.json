@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(echo \"PID: $!\")",
+      "Bash(curl -s --max-time 5 http://localhost:5173/)",
+      "Bash(mkdir -p /Users/elnathanhung/Documents/GitHub/nie-ai-simulations/.claude)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(npx vite *)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(curl -s http://localhost:5175)",
+      "Bash(curl -s \"http://localhost:5175/src/main.jsx\")",
+      "Bash(node -e ' *)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp"
+    ]
+  }
+}

@@ -193,7 +193,7 @@ export default function Home() {
       </nav>
 
       <main style={styles.main}>
-        <p style={styles.eyebrow}>Interactive Classroom Simulations</p>
+        <p style={styles.eyebrow}>Interactive Simulations For Educators</p>
 
         <h1 style={styles.heading}>
           Teaching{' '}
